@@ -1,0 +1,4 @@
+Question	Student Answer
+What is an algorithm?	An algorithm is a series of steps for solving a problem or accomplishing a task. They are fundamental in computing.
+Explain the concept of recursion in programming.	Recursion is a technique where functions call themselves, making complex problems easier to solve. It requires a base case to prevent infinite loops.
+How does a binary search algorithm work?	Binary search operates by dividing a sorted array and comparing the target value to the middle element. It repeatedly narrows down the segment of the array where the target could be, by halving it each time until the target is found or the search scope is empty.
